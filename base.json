@@ -1,0 +1,218 @@
+{
+  "Theme": {
+    "Base": {
+      "Primary": {
+      },
+      "Secondary": {
+      },
+      "Tertiary": {
+      }
+    },
+    "Text": {
+      "Solid": {
+        "Ink": {
+        },
+        "Invert": {
+        },
+        "Neutral": {
+        },
+        "Disabled": {
+        },
+        "Highlight": {
+        },
+        "Critical": {
+        },
+        "Information": {
+        },
+        "Success": {
+        },
+        "Warning": {
+        },
+        "Active":{
+
+        }
+      },
+      "Gradient": {
+        "Highlight": {
+        }
+      }
+    },
+    "Background": {
+      "Subtle": {
+        "Neutral": {
+        },
+        "Disabled": {
+        },
+        "Information": {
+        },
+        "Success": {
+        },
+        "Warning": {
+        },
+        "Critical": {
+        },
+        "Highlight": {
+        },
+        "Accent": {
+        },
+        "Active":{
+
+        }
+
+      },
+      "Solid": {
+        "Neutral": {
+        },
+        "Invert": {
+        },
+        "Disabled": {
+        },
+        "Information": {
+        },
+        "Success": {
+        },
+        "Warning": {
+        },
+        "Critical": {
+        },
+        "Highlight": {
+        },
+        "Accent": {
+        },
+        "Active":{
+          
+        }
+      },
+      "Gradient": {
+        "Accent": {
+        },
+        "Highlight": {
+        },
+        "Hero": {
+        }
+      },
+      "Canvas": {
+        "Light": {
+        },
+        "Dark": {
+        },
+        "Subtle": {
+        }
+      }
+    },
+    "Border": {
+      "Default": {
+      },
+      "Active": {
+      },
+      "Ink": {
+      },
+      "Invert": {
+      },
+      "Disabled": {
+      },
+      "Critical": {
+      },
+      "Information": {
+      },
+      "Success": {
+      },
+      "Warning": {
+      }
+    },
+    "Icon": {
+      "Ink": {
+      },
+      "Invert": {
+      },
+      "Disabled": {
+      },
+      "Highlight": {
+      },
+      "Critical": {
+      },
+      "Information": {
+      },
+      "Success": {
+      },
+      "Warning": {
+      },
+      "Active": {
+      },
+      "Neutral": {
+      }
+    },
+    "Action": {
+      "Radius":{
+      },
+      "Primary": {
+        "Default": {
+        },
+        "Hover": {
+        },
+        "Active": {
+        },
+        "Focus": {
+        },
+        "Disabled": {
+        },
+        "FocusOutline": {
+        }
+      },
+      "Secondary": {
+        "Default": {
+        },
+        "Hover": {
+        },
+        "Active": {
+        }
+      },
+      "Outline": {
+        "Hover": {
+        },
+        "Active": {
+        },
+        "Focus": {
+        },
+        "Disabled": {
+        }
+      },
+      "Danger": {
+        "Default": {
+        },
+        "Hover": {
+        },
+        "Active": {
+        },
+        "FocusOutline": {
+        },
+        "Disabled": {
+        }
+      },
+      "Link": {
+        "Default": {
+        },
+        "Hover": {
+        },
+        "Pressed": {
+        },
+        "Focus": {
+        },
+        "Disabled": {
+        }
+      }
+    },
+    "Selection": {
+      "Default": {
+      },
+      "Hover": {
+      },
+      "Active": {
+      },
+      "Pressed": {
+      },
+      "Disabled": {
+      }
+    }
+  }
+}
